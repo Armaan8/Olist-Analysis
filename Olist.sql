@@ -5,7 +5,7 @@ USE Olist;
 
 -- DATA PREPARATION
 
-# check duplicate by distinct count. Found no duplicate rows in all tables.
+-- check duplicate by distinct count. Found no duplicate rows in all tables.
 SELECT 
 DISTINCT COUNT(*)
 FROM  olist_orders oo; 
