@@ -1,7 +1,5 @@
 # Olist Power BI Sales Dashboard
 
-![banner](/img/dataset-cover.png)
-
 <!-- 
 ## Authors
 
